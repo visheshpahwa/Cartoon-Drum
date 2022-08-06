@@ -1,0 +1,35 @@
+*{
+    background-color: #1A4D2E;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    font-size: 6rem;
+    color: #FF9F29;
+    text-shadow: 3px 0 #DA0463;
+    font-family: 'Dancing Script', cursive;
+}
+.set{
+    margin: 8% auto;
+}
+.drum{
+    margin: 8px;
+    height: 200px;
+    width: 200px;
+    font-size: 3rem;
+    font-family: 'Rubik Moonrocks', cursive;
+    text-shadow: 3px 0 #090d0e;
+    color: #513252;
+    display: inline-block;
+    border-radius: 15px;
+    border: 5px solid black;
+    background-color: white;
+    outline: none;
+}
+footer p{
+    font-size: 5rem;
+    color: #FAF3E3;
+}
+.w{
+    
+}
